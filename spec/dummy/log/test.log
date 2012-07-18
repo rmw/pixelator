@@ -5,3 +5,889 @@ Connecting to database specified by database.yml
   [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
   [1m[35m (0.1ms)[0m  rollback transaction
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as HTML
+Completed 500 Internal Server Error in 15ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as HTML
+Completed 500 Internal Server Error in 13ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 500 Internal Server Error in 15ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 500 Internal Server Error in 15ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.6ms)
+Completed 200 OK in 32ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.7ms)
+Completed 200 OK in 32ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.7ms)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.7ms)
+Completed 200 OK in 34ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.7ms)
+Completed 200 OK in 38ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.9ms)
+Completed 200 OK in 33ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.7ms)
+Completed 200 OK in 41ms (Views: 40.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 37ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.erb (0.4ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.erb (0.4ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml__3548781243193375173_70269636509220 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml__3548781243193375173_70269636509220(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag '/pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>Home#index</h1>\n<p>Find me in app/views/home/index.html.erb</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (2.4ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml___4517654061507536281_70329515975160 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml___4517654061507536281_70329515975160(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>Home#index</h1>\n<p>Find me in app/views/home/index.html.erb</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (1.4ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.7ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+  Rendered /Users/Rebecca/workspace/pixelator/app/views/shared/pixelator_data.js.haml (0.6ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#pixelator_data as JS
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml___3954005652246639294_70305158637140 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml___3954005652246639294_70305158637140(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>Home#index</h1>\n<p>Find me in app/views/home/index.html.erb</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (1.7ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml___2294633582535125988_70177905015580 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml___2294633582535125988_70177905015580(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>Home#index</h1>\n<p>Find me in app/views/home/index.html.erb</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (5.6ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml__1703111504567215680_70197582487160 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml__1703111504567215680_70197582487160(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>Home#index</h1>\n<p>Find me in app/views/home/index.html.erb</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (5.2ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml__1366287601746252171_70162207810500 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml__1366287601746252171_70162207810500(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>Home#index</h1>\n<p>Find me in app/views/home/index.html.erb</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (3.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml__701790065087300739_70306760405680 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_in, expecting ')'
+...rue_false_true_true((Find me in app/views/home/index.html.ha...
+...                               ^
+/Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:7: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml__701790065087300739_70306760405680(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>#{_hamlout.format_script_false_true_false_true_false_true_true((Home#index
+));}</h1>\n<p>#{_hamlout.format_script_false_true_false_true_false_true_true((Find me in app/views/home/index.html.haml
+));}</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (3.1ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml___1062978244949438147_70323732264300 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:6: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml___1062978244949438147_70323732264300(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>#{_hamlout.format_script_false_true_false_true_false_true_true((Home#index
+));}</h1>\n<p>\nFind me in app/views/home/index.html.haml\n</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (1.5ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+ERROR: compiling _app_views_home_index_html_haml__1704064845514124671_70225096257780 RAISED /Users/Rebecca/workspace/pixelator/spec/dummy/app/views/home/index.html.haml:5: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_home_index_html_haml__1704064845514124671_70225096257780(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "home/index";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;; content_for(:head)
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( javascript_include_tag 'pixelator_data'
+));}\n";end
+_hamlout.buffer << "<h1>\nHome#index\n</h1>\n<p>\nFind me in app/views/home/index.html.haml\n</p>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper if @haml_buffer;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `module_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:297:in `compile'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:232:in `compile!'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:144:in `block in render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/template.rb:143:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `block in instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.6/lib/active_support/notifications.rb:123:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/haml-3.1.6/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:170:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.6/lib/action_view/test_case.rb:115:in `render'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-rails-2.9.0/lib/rspec/rails/example/view_example_group.rb:46:in `render'
+/Users/Rebecca/workspace/pixelator/spec/views/home_views_spec.rb:6:in `block (2 levels) in <top (required)>'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `instance_eval'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:80:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:173:in `with_around_hooks'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example.rb:77:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:355:in `block in run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:351:in `run_examples'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/example_group.rb:337:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `map'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:28:in `block in run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/reporter.rb:34:in `report'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/command_line.rb:25:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:69:in `run'
+/Users/Rebecca/.rvm/gems/ruby-1.9.3-p194/gems/rspec-core-2.9.0/lib/rspec/core/runner.rb:10:in `block in autorun'
+  Rendered home/index.html.haml (1.8ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml (5.2ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml (3.1ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml (1.9ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (3.2ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (2.7ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (1.9ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (3.3ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (2.1ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (2.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  Rendered home/index.html.haml within layouts/application (2.1ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (2.8ms)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 13ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PixelatorController#data as JS
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction

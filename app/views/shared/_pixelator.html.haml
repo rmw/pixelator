@@ -1,0 +1,12 @@
+- @pixel_types ||= ['all']
+- @scope ||= ''
+
+:javascript
+  (function() {
+    $(document).ready(function() {
+      var pixelator = new Pixelator(PIXEL_DATA, '#{@scope}');
+      _.each(#{@pixel_types}, function(p) {
+        pixelator.run(p);
+      });
+    });
+  })();

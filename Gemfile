@@ -7,9 +7,11 @@ gemspec
 
 # jquery-rails is used by the dummy application
 gem "jquery-rails"
+gem 'haml'
 
 group :test do
   gem 'rspec-rails'
+  gem 'capybara'
 end
 
 # Declare any dependencies that are still in development here instead of in

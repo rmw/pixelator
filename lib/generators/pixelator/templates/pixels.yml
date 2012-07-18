@@ -1,0 +1,24 @@
+# This is where you define your pixels
+# The top level is a key, which contains any array
+# Each element in the array is a pixel with name, type, snippet, and partner TODO: change to scope
+# The snippet is run through _underscore.js templating
+#  you can use <%= var %> in the snippet where var is defined in PIXEL_DATA.context['var']
+#  (see config/initalizers/pixelator.rb for how to do this server-side; can also be done in JS)
+
+#all:
+#  - name: google_analytics
+#    type: javascript
+#    snippet: |
+#      <script type="text/javascript">
+#      try {
+#        var _gaq = _gaq || [];
+#        _gaq.push(['_setAccount', '<%= google_analytics %>']);
+#        _gaq.push(['_trackPageview']);
+#
+#        (function() {
+#         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+#         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+#         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+#         })();
+#      } catch(err) {}
+#      </script>
