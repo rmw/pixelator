@@ -1,3 +1,6 @@
 = Pixelator
 
 This project rocks and uses MIT-LICENSE.
+
+- require jquery-rails
+- requires underscore.js

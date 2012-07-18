@@ -8,4 +8,8 @@ class PixelatorGenerator < Rails::Generators::Base
   def copy_pixel_yaml
     copy_file "pixels.yml", "config/pixels.yml"
   end
+
+  def insert_require_pixelator_core
+    inject_into_file 'app/assets/application.js', :before
+  end
 end

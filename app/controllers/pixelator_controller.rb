@@ -7,5 +7,4 @@ class PixelatorController < ApplicationController
   def data
     render
   end
-
 end

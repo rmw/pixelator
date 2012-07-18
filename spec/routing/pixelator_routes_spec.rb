@@ -7,4 +7,5 @@ describe "Pixelator Routing" do
                    { controller: "pixelator", action: "data" }
     )
   end
+
 end
