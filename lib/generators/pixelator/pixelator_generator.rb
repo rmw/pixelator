@@ -10,6 +10,7 @@ class PixelatorGenerator < Rails::Generators::Base
   end
 
   def insert_require_pixelator_core
-    inject_into_file 'app/assets/application.js', :before
+    inject_into_file 'app/assets/javascripts/application.js', "//= require 'pixelator_core'\n",
+                     before: "//= require_tree ."
   end
 end

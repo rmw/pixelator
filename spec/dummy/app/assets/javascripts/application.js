@@ -12,6 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
-
 //= require 'pixelator_core'
+//= require_tree .
