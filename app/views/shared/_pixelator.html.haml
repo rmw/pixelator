@@ -1,12 +1,20 @@
-- @pixel_types ||= ['all']
-- @scope ||= ''
+-if Pixelator.run_envs.include?(Rails.env)
+  - @pixel_types ||= ['all']
+  - @scope ||= ''
 
-:javascript
-  (function() {
-    $(document).ready(function() {
-      var pixelator = new Pixelator(PIXEL_DATA, '#{@scope}');
-      _.each(#{@pixel_types}, function(p) {
-        pixelator.run(p);
+  :javascript
+    (function() {
+      $(document).ready(function() {
+        var pixelator = new Pixelator(PIXEL_DATA, '#{@scope}');
+        _.each(#{@pixel_types}, function(p) {
+          pixelator.run(p);
+        });
       });
-    });
-  })();
+    })();
+-else
+  :javascript
+    if (typeof(console) === "object" && typeof(console.log) === "function") {
+      console.log("NOTICE: Pixelator is OFF. Go to #{__FILE__} to turn on.");
+    }
+
+

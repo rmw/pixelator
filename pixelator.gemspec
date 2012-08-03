@@ -7,8 +7,8 @@ require "pixelator/version"
 Gem::Specification.new do |s|
   s.name        = "pixelator"
   s.version     = Pixelator::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["Rebecca Miller-Webster, Marco Carag, Brendan Barr, HowAboutWe.com"]
+  s.email       = ["dev@howaboutwe.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of Pixelator."
   s.description = "TODO: Description of Pixelator."
@@ -25,5 +25,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "sqlite3"
   s.add_development_dependency "rspec-rails"
   s.add_development_dependency "capybara"
-  s.add_development_dependency "jasmine-rails"
+  s.add_development_dependency "jasmine"
 end
