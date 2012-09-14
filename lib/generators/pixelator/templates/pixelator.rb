@@ -1,5 +1,6 @@
 Pixelator.configure do |c|
   c.config_file = Rails.root.join('config', 'pixels.yml')
+  # run_envs is set to only 'production' by default
   #c.run_envs << 'test'
 end
 

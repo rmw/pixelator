@@ -1,10 +1,3 @@
-# This is where you define your pixels
-# The top level is a key, which contains any array
-# Each element in the array is a pixel with name, type, snippet, and partner TODO: change to scope
-# The snippet is run through _underscore.js templating
-#  you can use <%= var %> in the snippet where var is defined in PIXEL_DATA.context['var']
-#  (see config/initalizers/pixelator.rb for how to do this server-side; can also be done in JS)
-
 head:
   - name: google_analytics
     type: javascript

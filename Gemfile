@@ -14,6 +14,7 @@ group :test, :development do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'jasmine', git: 'git://github.com/pivotal/jasmine-gem.git'
+  gem 'pry'
 end
 
 # Declare any dependencies that are still in development here instead of in

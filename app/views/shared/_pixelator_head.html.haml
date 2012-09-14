@@ -1,0 +1,7 @@
+- Pixelator.pixels[:head].each do |pixel|
+  - name = pixel[:name]
+  - template = ERB.new(URI.unescape(pixel[:snippet]))
+  - context = OpenStruct.new(Pixelator.context)
+  - snippet = template.result(context.instance_eval { binding })
+  :plain
+    #{URI.unescape(snippet)}

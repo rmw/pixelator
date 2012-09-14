@@ -1,5 +1,5 @@
 Pixelator.configure do |c|
-  c.config_file = Rails.root.join('config', 'pixels.yml')
+  c.config_file = Rails.root.join('config/pixels.yml')
   #c.run_envs << 'test'
 end
 

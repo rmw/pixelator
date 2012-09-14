@@ -7,11 +7,12 @@ require "pixelator/version"
 Gem::Specification.new do |s|
   s.name        = "pixelator"
   s.version     = Pixelator::VERSION
-  s.authors     = ["Rebecca Miller-Webster, Marco Carag, Brendan Barr, HowAboutWe.com"]
+  s.authors     = ["HowAboutWe.com, Rebecca Miller-Webster, Marco Carag, Brendan Barr"]
   s.email       = ["dev@howaboutwe.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Pixelator."
+  s.homepage    = "http://wwww.github.com/howaboutwe/pixelator"
+  s.summary     = "Add tracking pixels to your code in a manageable, performant way"
   s.description = "TODO: Description of Pixelator."
+  s.licenses = ["MIT"]
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.markdown"]
   s.test_files = Dir["test/**/*"]

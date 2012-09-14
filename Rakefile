@@ -35,11 +35,7 @@ Rake::TestTask.new(:test) do |t|
 end
 
 
-task :default => :test
+task :default => [:test, "jasmine:ci"]
 
 
-load APP_RAKEFILE 
-task :precompile_jasmine => ['assets:clean', 'assets:precompile', 'jasmine']
-
-#alias for precompiling assets in full engine
-task "tmp:cache:clear" => ['app:tmp:cache:clear']
+load APP_RAKEFILE

@@ -9,18 +9,26 @@ describe 'home/index' do
     rendered.should include('<script src="/pixelator/data.js" type="text/javascript"></script>')
   end
 
-  it "should include Pixelator.run code if Pixelator is on" do
-    Pixelator.run_envs << 'test'
-    render
-    rendered.should include("new Pixelator(PIXEL_DATA, '');")
-    rendered.should include("pixelator.run")
-    rendered.should_not include("NOTICE: Pixelator is OFF")
+  context "Pixelator is on" do
+     before do
+       Pixelator.run_envs << 'test'
+     end
+
+    it "should include Pixelator.run code" do
+      render
+
+      rendered.should include("new Pixelator(PIXEL_DATA, '');")
+      rendered.should include("pixelator.run")
+      rendered.should_not include("NOTICE: Pixelator is OFF")
+    end
   end
 
   it "should include NOT Pixelator.run code if Pixelator is off" do
     Pixelator.run_envs.delete('test')
     Pixelator.run_envs.should_not include('test')
+
     render
+
     rendered.should_not include("new Pixelator(PIXEL_DATA, '');")
     rendered.should_not include("pixelator.run")
     rendered.should include("NOTICE: Pixelator is OFF")
